@@ -1,0 +1,480 @@
+{
+  "connections": [
+    {
+      "resourceName": "people/c2343485558800714847",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgxHaGtmTHgxSWdxOD0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "2085bbb30c930c5f" }
+          },
+          "displayName": "Anand Docsapp",
+          "familyName": "Docsapp",
+          "givenName": "Anand",
+          "displayNameLastFirst": "Docsapp, Anand",
+          "unstructuredName": "Anand Docsapp"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "2085bbb30c930c5f" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYaaH2XdptcZdCBsUw7niljACLcDEAEiGQoBQRD___________8BGJ6i0f_______wE/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "2085bbb30c930c5f" }
+          },
+          "value": "+91 96945 17397",
+          "canonicalForm": "+919694517397",
+          "type": "Mobile",
+          "formattedType": "Mobile"
+        }
+      ]
+    },
+    {
+      "resourceName": "people/c6260080166687587783",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgx0L1JPSWJDQ3JDaz0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "56e045be88e1bdc7" }
+          },
+          "displayName": "Shefali",
+          "givenName": "Shefali",
+          "displayNameLastFirst": "Shefali",
+          "unstructuredName": "Shefali"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "PROFILE", "id": "105763651629346108336" }
+          },
+          "url": "https://lh3.googleusercontent.com/a-/AOh14GhyyyfKCmiqnMQvwRtmeu2K7ws9GUjmPDEul_1tNA=s100"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "56e045be88e1bdc7" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYA8fgKVmXPKe_OVXpB_XBYACLcDEAEiGQoBUxD___________8BGLi-ovv______wE/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "56e045be88e1bdc7" }
+          },
+          "value": "9600088267",
+          "canonicalForm": "+919600088267",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        }
+      ]
+    },
+    {
+      "resourceName": "people/c3920579994260919594",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgxBQTdyVWtJamZhRT0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "3668b2bb8f6cd52a" }
+          },
+          "displayName": "Vijay Chandra Pandey Hcl",
+          "familyName": "Hcl",
+          "givenName": "Vijay Chandra",
+          "middleName": "Pandey",
+          "displayNameLastFirst": "Hcl, Vijay Chandra Pandey",
+          "unstructuredName": "Vijay Chandra Pandey Hcl"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "PROFILE", "id": "103773442217542625958" }
+          },
+          "url": "https://lh3.googleusercontent.com/a-/AOh14Gg4tApu6jmz_mFkXL337ND4G38YPDGdfc_L33eu=s100"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "3668b2bb8f6cd52a" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYn7j_lbszt15HbyjQEJnwDwCLcDEAEiGQoBVhD___________8BGIzs_P3______wE/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "3668b2bb8f6cd52a" }
+          },
+          "value": "+919840540673",
+          "canonicalForm": "+919840540673",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "3668b2bb8f6cd52a" }
+          },
+          "value": "+918838755932",
+          "canonicalForm": "+918838755932",
+          "type": "home",
+          "formattedType": "Home"
+        }
+      ]
+    },
+    {
+      "resourceName": "people/c7641537471742745839",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgw2SkJ6MVgwYUk5MD0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "6a0c31d80d101cef" }
+          },
+          "displayName": "Divya Nagar",
+          "familyName": "Nagar",
+          "givenName": "Divya",
+          "displayNameLastFirst": "Nagar, Divya",
+          "unstructuredName": "Divya Nagar"
+        },
+        {
+          "metadata": {
+            "source": { "type": "PROFILE", "id": "115175174365007329820" }
+          },
+          "displayName": "DIVYA NAGAR",
+          "familyName": "NAGAR",
+          "givenName": "DIVYA",
+          "displayNameLastFirst": "NAGAR, DIVYA",
+          "unstructuredName": "DIVYA NAGAR"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "PROFILE", "id": "115175174365007329820" }
+          },
+          "url": "https://lh3.googleusercontent.com/a-/AOh14Ggns6ClyxGbTiR9t4A-v5EoN3FemBkGjkFB8okkeA=s100"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "6a0c31d80d101cef" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmY_dfcEzkma2rmZhIgGqFrbQCLcDEAEiGQoBRBD___________8BGMKv-fv______wE/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "emailAddresses": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "6a0c31d80d101cef" }
+          },
+          "value": "UG201213005@iitj.ac.in",
+          "type": "other",
+          "formattedType": "Other"
+        },
+        {
+          "metadata": {
+            "verified": true,
+            "source": {
+              "type": "DOMAIN_PROFILE",
+              "id": "115175174365007329820"
+            }
+          },
+          "value": "UG201213005@iitj.ac.in"
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "6a0c31d80d101cef" }
+          },
+          "value": "+91 83020 73904",
+          "canonicalForm": "+918302073904",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "6a0c31d80d101cef" }
+          },
+          "value": "+91 72598 88558",
+          "canonicalForm": "+917259888558",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        }
+      ]
+    },
+    {
+      "resourceName": "people/c4372372384401980698",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgxIcEVHc3hvTWtCYz0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "3cadc9848e01fd1a" }
+          },
+          "displayName": "Harsh Patel",
+          "givenName": "Harsh",
+          "middleName": "Patel",
+          "displayNameLastFirst": "Harsh Patel",
+          "unstructuredName": "Harsh Patel"
+        },
+        {
+          "metadata": {
+            "source": { "type": "PROFILE", "id": "111249954170347452448" }
+          },
+          "displayName": "PATEL HARSH BHUPENDRABHAI",
+          "familyName": "HARSH BHUPENDRABHAI",
+          "givenName": "PATEL",
+          "displayNameLastFirst": "HARSH BHUPENDRABHAI, PATEL",
+          "unstructuredName": "PATEL HARSH BHUPENDRABHAI"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "PROFILE", "id": "111249954170347452448" }
+          },
+          "url": "https://lh3.googleusercontent.com/a-/AOh14Gj0bJRFnwoiQskp2SxmvxKwz_OvwnOu_yyv-JAWhw=s100"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "3cadc9848e01fd1a" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYgtfqv37D4JseLU8PFucTmwCLcDEAEiGQoBSBD___________8BGIDYvf_______wE/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "emailAddresses": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "3cadc9848e01fd1a" }
+          },
+          "value": "ug201312025@iitj.ac.in",
+          "type": "other",
+          "formattedType": "Other"
+        },
+        {
+          "metadata": {
+            "verified": true,
+            "source": {
+              "type": "DOMAIN_PROFILE",
+              "id": "111249954170347452448"
+            }
+          },
+          "value": "ug201312025@iitj.ac.in"
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "3cadc9848e01fd1a" }
+          },
+          "value": "+91 99096 68989",
+          "canonicalForm": "+919909668989",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        }
+      ]
+    },
+    {
+      "resourceName": "people/c6298148942188672850",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgx3NVIzYis0QVJKTT0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "5767851809a87752" }
+          },
+          "displayName": "Sharath Chinna",
+          "familyName": "Chinna",
+          "givenName": "Sharath",
+          "displayNameLastFirst": "Chinna, Sharath",
+          "unstructuredName": "Sharath Chinna"
+        },
+        {
+          "metadata": {
+            "source": { "type": "PROFILE", "id": "117177024315696207520" }
+          },
+          "displayName": "SHARATH KUNTANHAL",
+          "familyName": "KUNTANHAL",
+          "givenName": "SHARATH",
+          "displayNameLastFirst": "KUNTANHAL, SHARATH",
+          "unstructuredName": "SHARATH KUNTANHAL"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "PROFILE", "id": "117177024315696207520" }
+          },
+          "url": "https://lh3.googleusercontent.com/a-/AOh14GhBtDJL6jLGhZkEoZGXvhMMDatTp611dTcXI2h1ig=s100"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "5767851809a87752" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYRxu2xGBZ9rZAQ6tCVh97NgCLcDEAEiGQoBUxD___________8BGIzs_P3______wE/s100/photo.jpg",
+          "default": true
+        },
+        {
+          "metadata": {
+            "source": { "type": "PROFILE", "id": "106637259354095226725" }
+          },
+          "url": "https://lh4.googleusercontent.com/-WIA9cgPH70A/AAAAAAAAAAI/AAAAAAAAAAA/d1jFrn347gU/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "emailAddresses": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "5767851809a87752" }
+          },
+          "value": "UG201211034@iitj.ac.in",
+          "type": "other",
+          "formattedType": "Other"
+        },
+        {
+          "metadata": {
+            "verified": true,
+            "source": {
+              "type": "DOMAIN_PROFILE",
+              "id": "117177024315696207520"
+            }
+          },
+          "value": "UG201211034@iitj.ac.in"
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "5767851809a87752" }
+          },
+          "value": "+91 70442 51773",
+          "canonicalForm": "+917044251773",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "5767851809a87752" }
+          },
+          "value": "+91 77919 61692",
+          "canonicalForm": "+917791961692",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        }
+      ]
+    },
+    {
+      "resourceName": "people/c8736271811648226515",
+      "etag": "%EgoBAj0DCT4LPzcuGgQBAgUHIgxRaHkxSEg5OGRLaz0=",
+      "names": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "793d78ed0a8d04d3" }
+          },
+          "displayName": "Gorla Uhasree",
+          "familyName": "Uhasree",
+          "givenName": "Gorla",
+          "displayNameLastFirst": "Uhasree, Gorla",
+          "unstructuredName": "Gorla Uhasree"
+        },
+        {
+          "metadata": {
+            "source": { "type": "PROFILE", "id": "102910517482178757791" }
+          },
+          "displayName": "GORLA UHASREE",
+          "familyName": "UHASREE",
+          "givenName": "GORLA",
+          "displayNameLastFirst": "UHASREE, GORLA",
+          "unstructuredName": "GORLA UHASREE"
+        }
+      ],
+      "photos": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "PROFILE", "id": "114826201405241437757" }
+          },
+          "url": "https://lh3.googleusercontent.com/a-/AOh14GjAPVYoIaWKiYHWJ5a6HXdqw9J67Wh3Vtw9f4Lt=s100"
+        },
+        {
+          "metadata": {
+            "source": { "type": "CONTACT", "id": "793d78ed0a8d04d3" }
+          },
+          "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/V8BNOaftJmYAvyA6Giv3S0_lOOL_orPbACLcDEAEiGQoBRxD___________8BGMKv-fv______wE/s100/photo.jpg",
+          "default": true
+        },
+        {
+          "metadata": {
+            "source": { "type": "PROFILE", "id": "102910517482178757791" }
+          },
+          "url": "https://lh4.googleusercontent.com/-a_RLa8JuLoE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl0KeTL9OaAyhhRocYFvegL2GG0yg/s100/photo.jpg",
+          "default": true
+        }
+      ],
+      "emailAddresses": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "793d78ed0a8d04d3" }
+          },
+          "value": "ug201210016@iitj.ac.in",
+          "type": "other",
+          "formattedType": "Other"
+        },
+        {
+          "metadata": {
+            "verified": true,
+            "source": {
+              "type": "DOMAIN_PROFILE",
+              "id": "102910517482178757791"
+            }
+          },
+          "value": "ug201210016@iitj.ac.in"
+        }
+      ],
+      "phoneNumbers": [
+        {
+          "metadata": {
+            "primary": true,
+            "source": { "type": "CONTACT", "id": "793d78ed0a8d04d3" }
+          },
+          "value": "8947845454",
+          "canonicalForm": "+918947845454",
+          "type": "mobile",
+          "formattedType": "Mobile"
+        }
+      ]
+    }
+  ],
+  "totalPeople": 7,
+  "totalItems": 7
+}
